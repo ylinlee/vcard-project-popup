@@ -1,0 +1,24 @@
+{
+  "name": "vcard-project-popup",
+  "version": "0.0.1",
+  "description": "Project popup",
+  "private": true,
+  "authors": [
+    "YCLIN"
+  ],
+  "keywords": [
+    "web-components",
+    "polymer",
+    "vcard"
+  ],
+  "main": "vcard-project-popup.html",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ylinlee/vcard-project-popup.git"
+  },
+  "license": "MIT",
+  "ignore": [],
+  "dependencies": {
+    "polymer": "Polymer/polymer#1.4.0"
+  }
+}
